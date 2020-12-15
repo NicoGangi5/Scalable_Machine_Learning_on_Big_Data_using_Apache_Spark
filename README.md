@@ -1,4 +1,4 @@
-# Scalable_Machine_Learning_on_Big_Data_using_Apache_Spark
+# Scalable Machine Learning on Big Data using Apache Spark
 By IBM on Coursera
 
 Week 1 Ejercicio 1: https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/123b9fcd-a87d-4952-aff8-a58a8cffb991/view?access_token=991d359bb183bd1ae4a49123413ab657332c40966ee5d161a2714d8245f5b34f
